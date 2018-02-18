@@ -21,7 +21,9 @@ public class Main {
         long total = 0;
 
         int i;
-//hahahhah
+//add new changes for github
+
+
         for (i = 0; i < userInput.length(); ++i)
 
         {
